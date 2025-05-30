@@ -1,4 +1,4 @@
-# Multi-task Learning in Classification Tasks
+# MTL Measures of Task-Relatedness and Gradient Conflicts
 
 ### Code for computational experiments on GLUE, CityScapes, NYUv2, Multi-MNIST datasets
 Data for GLUE: [GlueData](https://gist.github.com/W4ngatang/60c2bdb54d156a41194446737ce03e2e) <br />
